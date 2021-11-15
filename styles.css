@@ -1,0 +1,217 @@
+body {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+#container1 {
+  position: relative;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+#repetition1 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Poiret One", sans-serif;
+  font-size: 1rem;
+  top: 0;
+}
+
+#repetition2 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Poiret One", sans-serif;
+  font-size: 2rem;
+  top: 13px;
+}
+
+#repetition3 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Poiret One", sans-serif;
+  font-size: 3rem;
+  top: 40px;
+}
+
+#repetition4 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Poiret One", sans-serif;
+  font-size: 4rem;
+  top: 80px;
+}
+
+#repetition5 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Poiret One", sans-serif;
+  font-size: 5rem;
+  top: 130px;
+}
+
+#repetition6 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Poiret One", sans-serif;
+  font-size: 6rem;
+  top: 195px;
+}
+
+#repetition7 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Poiret One", sans-serif;
+  font-size: 7rem;
+  top: 270px;
+}
+
+#repetition8 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Poiret One", sans-serif;
+  font-size: 8rem;
+  top: 360px;
+}
+
+#repetition9 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Poiret One", sans-serif;
+  font-size: 10rem;
+  top: 460px;
+}
+
+#repetition10 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Poiret One", sans-serif;
+  font-size: 12rem;
+  top: 590px;
+}
+
+#repetition11 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Poiret One", sans-serif;
+  font-size: 13rem;
+  top: 750px;
+}
+
+#repetition12 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Poiret One", sans-serif;
+  font-size: 14rem;
+  top: 390px;
+}
+
+#repetition13 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Poiret One", sans-serif;
+  font-size: 15rem;
+  top: 490px;
+}
+
+#repetition14 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Poiret One", sans-serif;
+  font-size: 16rem;
+  top: 580px;
+}
+
+#repetition15 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Poiret One", sans-serif;
+  font-size: 17rem;
+  top: 660px;
+}
+
+#repetition16 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Poiret One", sans-serif;
+  font-size: 18rem;
+  top: 680px;
+}
+
+#repetition17 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Poiret One", sans-serif;
+  font-size: 19rem;
+  top: 720px;
+}
+/*# sourceMappingURL=styles.css.map */

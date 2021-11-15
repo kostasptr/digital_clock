@@ -1,0 +1,92 @@
+body{
+  overflow:hidden;
+  margin:0;
+  padding:0;
+}
+
+@mixin containers {
+  position:relative;
+  height:100vh;
+  margin:0;
+  padding:0;
+}
+
+@mixin text {
+  position:absolute;
+  margin:0;
+  padding:0;
+  color:black;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Poiret One", sans-serif;
+}
+
+#container1{
+  @include containers;
+}
+
+#repetition1{
+  @include text;
+  font-size:1rem;
+  top:0;
+}
+
+#repetition2{
+  @include text;
+  font-size:2rem;
+  top:13px;
+}
+
+#repetition3{
+  @include text;
+  font-size:3rem;
+  top: 40px;
+}
+
+#repetition4{
+  @include text;
+  font-size:4rem;
+  top: 80px;
+}
+
+#repetition5{
+  @include text;
+  font-size:5rem;
+  top:130px;
+}
+
+#repetition6{
+  @include text;
+  font-size:6rem;
+  top: 195px;
+}
+
+#repetition7{
+  @include text;
+  font-size:7rem;
+  top: 270px;
+}
+
+#repetition8{
+  @include text;
+  font-size:8rem;
+  top: 360px;
+}
+
+#repetition9{
+  @include text;
+  font-size:10rem;
+  top: 460px;
+}
+
+#repetition10{
+  @include text;
+  font-size:12rem;
+  top:590px;
+}
+
+#repetition11{
+  @include text;
+  font-size:13rem;
+  top:750px;
+}
